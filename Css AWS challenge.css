@@ -1,0 +1,40 @@
+body{
+    font-family: Arial;
+    
+}
+
+
+.intro{
+    text-align: center;
+}
+
+.education h3{
+    color:green;
+}
+
+.education h3, .education h4, .education h5, .education p{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.education{
+    border-style: solid;
+}
+
+.workAndproject h3{
+    color: green;
+}
+
+
+.skills h3{
+    color: green;
+}
+.skills{
+    border-style: solid;
+}
+html{
+    padding-left: 50px;
+    background-color: lightgray;
+    padding-right: 50px;
+}
+
+
